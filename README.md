@@ -84,11 +84,11 @@ These days, I'm fully immersed in software development, constantly learning new 
 ## 👩‍🏫 Other Achievements & Experiences
 
 - [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교**  
-- [2024. 2학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터**  
+- [2024. 2학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터**
+- [2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 **최우수상** <details><summary>📄 수상 인증 보기</summary><img src="https://github.com/user-attachments/assets/a812d18a-2fa5-429f-bb6a-3394bdc38138" width="150px" height="200px"></details>
 - [2025.01.20 ~ 01.24] 한성대학교 동계 프로그래밍 캠프 **튜터**
-- [2025. 1학기] 한성대학교 한성튜터링 **튜터**  
+- [2025. 1학기] 한성대학교 한성튜터링 **튜터**
 
-<br>
 
 ---
 
