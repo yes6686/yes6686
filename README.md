@@ -27,17 +27,17 @@ These days, I'm fully immersed in software development, constantly learning new 
 ## 🏆 Achievements
 
 <details>
-  <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상</summary>
+  <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 <strong>최우수상</strong></summary>
   <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="800" alt="capstone award image"/>
   <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg?raw=true" width="400" alt="capstone certificate"/>
 </details>
 
 <details>
-  <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 장려상</summary>
+  <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
 </details>
 
 <details>
-  <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 우수상</summary>
+  <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
 </details>
 
 <br>
@@ -55,9 +55,10 @@ These days, I'm fully immersed in software development, constantly learning new 
 
 - [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교**  
 - [2024. 2학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터**
-- [2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 **최우수상** <details><summary>📄 수상 인증 보기</summary><img src="https://github.com/user-attachments/assets/a812d18a-2fa5-429f-bb6a-3394bdc38138" width="150px" height="200px"></details>
 - [2025.01.20 ~ 01.24] 한성대학교 동계 프로그래밍 캠프 **튜터**
 - [2025. 1학기] 한성대학교 한성튜터링 **튜터**
+- <details><summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 <strong>최우수상</strong> </summary>
+  <img src="https://github.com/user-attachments/assets/a812d18a-2fa5-429f-bb6a-3394bdc38138" width="150px" height="200px"></details>
 
 <br>
 
