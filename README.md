@@ -15,9 +15,12 @@
 
 ## 👋 About Me
 
-Hi, I'm Yae Chan, a passionate developer from South Korea.  
-I originally majored in chemistry but later switched to computer science. I love math and have experience working as a lecturer.  
-Currently, I'm deeply immersed in software development and absolutely loving it. I enjoy exploring various technologies, working on different projects, and preparing for coding challenges. I'm always eager to expand my skill set and grow as a developer by tackling diverse challenges.
+Hi, I'm Yae Chan, a dedicated developer from South Korea with a curious mind and a love for solving problems.
+I began my academic journey in chemistry, but soon discovered my true passion in computer science. With a strong foundation in mathematics and experience as a lecturer, I bring both analytical thinking and communication skills to my work.
+
+These days, I'm fully immersed in software development, constantly learning new technologies and building creative solutions. Whether it's tackling algorithmic challenges, contributing to meaningful projects, or mentoring others, I strive to grow through every experience and collaboration.
+
+
 
 <br>
 
@@ -66,6 +69,15 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 <details>
   <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 우수상</summary>
 </details>
+
+<br>
+
+### 🚀 Projects
+> #### ♻️ [**_For You_**](https://github.com/BestDAOU) <sub><sup>2024.09 – 2024.11</sup></sub>  
+  AI 기반 개인화 단체문자 서비스
+
+> #### 🧠 [**_BrainTrace_**](https://github.com/HS-MUMU/version1.0) <sub><sup>2024.02 – 2024.5</sup></sub>  
+  온디바이스 지식그래프 기반 AI 시스템
 
 <br>
 
