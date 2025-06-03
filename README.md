@@ -73,12 +73,12 @@ These days, I'm fully immersed in software development, constantly learning new 
 <br>
 
 ### 🚀 Projects
-> ####  [**_For You_**](https://github.com/BestDAOU) <sub><sup>2024.09 – 2024.11</sup></sub>  
+> ####  [**_For You_**](https://github.com/BestDAOU) <sub><sup> 2024.09 – 2024.11</sup></sub>  
   AI 기반 개인화 단체문자 서비스
 
-> ####  [**_BrainTrace_**](https://github.com/HS-MUMU/BrainTrace_OnDeviceAi) <sub><sup>2024.02 – 2024.5</sup></sub>  
-  온디바이스 지식그래프 기반 AI 시스템
-
+> ####  [**_BrainTrace_**](https://github.com/HS-MUMU/BrainTrace_OnDeviceAi) <sub><sup> 2024.02 – 2024.5</sup></sub>  
+  온디바이스 지식그래프 기반 AI 지식 관리 앱
+ 
 <br>
 
 ## 👩‍🏫 Other Achievements & Experiences
