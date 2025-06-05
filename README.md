@@ -15,10 +15,13 @@
 
 ## 👋 About Me
 
-Hi, I'm Yae Chan, a dedicated developer from South Korea with a curious mind and a love for solving problems.
-I began my academic journey in chemistry, but soon discovered my true passion in computer science. With a strong foundation in mathematics and experience as a lecturer, I bring both analytical thinking and communication skills to my work.
+I'm a highly motivated developer passionate about building intelligent systems powered by Graph-RAG and scalable backend architecture.
+With hands-on experience in Spring Boot, Docker, and Graph-based Retrieval-Augmented Generation, I focus on creating systems that not only work, but think—navigating knowledge like a graph, not a list.
 
-These days, I'm fully immersed in software development, constantly learning new technologies and building creative solutions. Whether it's tackling algorithmic challenges, contributing to meaningful projects, or mentoring others, I strive to grow through every experience and collaboration.
+I’m deeply interested in graph reasoning, big data infrastructure, and cloud-native distributed systems.
+I thrive on solving complex problems, optimizing performance, and continuously exploring cutting-edge technologies that bridge knowledge and computation.
+
+Let’s build smarter systems—together.
 
 <br>
 
