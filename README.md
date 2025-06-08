@@ -48,7 +48,7 @@ Let’s build smarter systems—together.
 > ####  [**_For You_**](https://github.com/BestDAOU) <sub><sup> 2024.09 – 2025.05</sup></sub>  
   AI 기반 개인화 단체문자 서비스
 
-> ####  [**_BrainTrace_**](https://github.com/HS-MUMU/BrainTrace_OnDeviceAi) <sub><sup> 2025.02 – 2025.5</sup></sub>  
+> ####  [**_BrainTrace_**](https://github.com/HS-MUMU/BrainTrace_OnDeviceAi) <sub><sup> 2025.02 – 2025.05</sup></sub>  
   온디바이스 지식그래프 기반 AI 지식 관리 앱
  
 <br>
