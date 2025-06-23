@@ -31,7 +31,7 @@ Let’s build smarter systems—together.
 
 <details>
   <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 <strong>최우수상</strong></summary>
-  <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg?raw=true" width="400" alt="capstone certificate"/>
+  <img src="https://github.com/yes6686/portfolio/blob/main/sw.jpeg?raw=true" width="400" alt="capstone certificate"/>
 </details>
 
 <details>
