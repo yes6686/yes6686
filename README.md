@@ -36,10 +36,12 @@ Let’s build smarter systems—together.
 
 <details>
   <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
+  <img src="https://github.com/yes6686/portfolio/blob/main/최고다오 상장.png?raw=true" width="400" alt="capstone certificate"/>
 </details>
 
 <details>
   <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
+  <img src="https://github.com/yes6686/portfolio/blob/main/무무 상장.png?raw=true" width="400" alt="capstone certificate"/>
 </details>
 
 <br>
