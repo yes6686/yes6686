@@ -11,22 +11,6 @@
 
 </div>
 
-<br>
-
-## 👋 About Me
-
-I'm a highly motivated developer passionate about building intelligent systems powered by Graph-RAG and scalable backend architecture.
-With hands-on experience in Spring Boot, Docker, and Graph-based Retrieval-Augmented Generation, I focus on creating systems that not only work, but think—navigating knowledge like a graph, not a list.
-
-I’m deeply interested in graph reasoning, big data infrastructure, and cloud-native distributed systems.
-I thrive on solving complex problems, optimizing performance, and continuously exploring cutting-edge technologies that bridge knowledge and computation.
-
-Let’s build smarter systems—together.
-
-<br>
-
----
-
 ## 🏆 Achievements
 
 <details>
@@ -50,8 +34,8 @@ Let’s build smarter systems—together.
 > ####  [**_For You_**](https://github.com/BestDAOU) <sub><sup> 2024.09 – 2025.05</sup></sub>  
   AI 기반 개인화 단체문자 서비스
 
-> ####  [**_BrainTrace_**](https://github.com/Metamong0711/BrainTrace) <sub><sup> 2025.02 – 2025.05</sup></sub>  
-  온디바이스 지식그래프 기반 AI 지식 관리 앱
+> ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 – ing</sup></sub>  
+  지식그래프를 활용한 지식 관리 앱
  
 <br>
 
@@ -65,32 +49,6 @@ Let’s build smarter systems—together.
   <img src="https://github.com/yes6686/portfolio/blob/main/독서 상장.png?raw=true" width="400" alt="capstone certificate"/>
 
 <br>
-
-## 🚀 Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-  
-  <br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" />
-  <br>
-
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-blue?style=for-the-badge&logo=pinecone" />
-</p>
 
 ---
 
