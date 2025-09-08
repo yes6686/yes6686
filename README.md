@@ -5,8 +5,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yes6686)](https://solved.ac/yes6686/)
 <img src="http://mazandi.herokuapp.com/api?handle=yes6686&theme=cold" alt="mazandi"/>
 
-![yes6686's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yes6686)
-
 ---
 
 </div>
