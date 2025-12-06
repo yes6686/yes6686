@@ -29,7 +29,6 @@
   <details>
     <summary>[2025. 09. 26] 한성대학교 공학경진대회 <strong>동상</strong></summary>
     <img src="https://github.com/user-attachments/assets/f77691b6-b47c-45e8-a09d-60a5694609d4" width="400"/>
-
   </details>
   
   <details>
@@ -38,8 +37,7 @@
 
 <details>
   <summary>[2025. 12. 05] 2025년 오픈소스 개발자대회 <strong>장려상</strong></summary>
-  <img src="https://github.com/user-attachments/assets/3321c276-2b87-41ca-8b9c-ee9842c13733" width="400" alt="capstone certificate"/>
-
+  <img src="https://github.com/user-attachments/assets/6fcf8c58-021c-4cc3-af9c-6482962eb12c" width="400" alt="capstone certificate"/>
 </details>
 <br>
 
