@@ -45,11 +45,11 @@
 
 ### 🚀 Projects
 
-> #### [**_For You_**](https://github.com/BestDAOU) <sub><sup>2024.09 – 2025.05</sup></sub>  
-> AI 기반 개인화 단체문자 서비스
-
 > #### [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup>2025.02 – 2025.11</sup></sub>  
 > 지식그래프를 활용한 지식 관리 앱
+
+> #### [**_For You_**](https://github.com/BestDAOU) <sub><sup>2024.09 – 2025.05</sup></sub>  
+> AI 기반 개인화 단체문자 서비스
 
 <br>
 
