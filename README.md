@@ -12,66 +12,65 @@
 ## 🏆 Achievements
 
 <details>
-  <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 <strong>최우수상</strong></summary>
-  <img src="https://github.com/yes6686/portfolio/blob/main/sw.jpeg?raw=true" width="400" alt="capstone certificate"/>
+  <summary>[2025. 12. 05] 2025년 오픈소스 개발자대회 <strong>장려상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/6fcf8c58-021c-4cc3-af9c-6482962eb12c" width="400"/>
+</details>
+
+<details>
+  <summary>[2025. 11. 28] 제 2회 SW중심대학 페스티벌 전시회 <strong>우수상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/a290b1ec-f3a6-42e6-8b9c-82a0426deec8" width="400"/>
+</details>
+
+<details>
+  <summary>[2025. 09. 26] 한성대학교 공학경진대회 <strong>동상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/f77691b6-b47c-45e8-a09d-60a5694609d4" width="400"/>
+</details>
+
+<details>
+  <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
+  <img src="https://github.com/yes6686/portfolio/blob/main/무무 상장.png?raw=true" width="400"/>
 </details>
 
 <details>
   <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
-  <img src="https://github.com/yes6686/portfolio/blob/main/최고다오 상장.png?raw=true" width="400" alt="capstone certificate"/>
+  <img src="https://github.com/yes6686/portfolio/blob/main/최고다오 상장.png?raw=true" width="400"/>
 </details>
 
 <details>
-  <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
-  <img src="https://github.com/yes6686/portfolio/blob/main/무무 상장.png?raw=true" width="400" alt="capstone certificate"/>
+  <summary>[2024. 11. 29] 제 1회 SW중심대학 페스티벌 전시회 <strong>최우수상</strong></summary>
+  <img src="https://github.com/yes6686/portfolio/blob/main/sw.jpeg?raw=true" width="400"/>
 </details>
 
-  <details>
-    <summary>[2025. 09. 26] 한성대학교 공학경진대회 <strong>동상</strong></summary>
-    <img src="https://github.com/user-attachments/assets/f77691b6-b47c-45e8-a09d-60a5694609d4" width="400"/>
-  </details>
-  
-  <details>
-  <summary>[2025. 11. 28] 제 2회 한성SW중심대학 페스티벌 캡스톤 전시회 <strong>우수상</strong></summary>
-</details>
-
-<details>
-  <summary>[2025. 12. 05] 2025년 오픈소스 개발자대회 <strong>장려상</strong></summary>
-  <img src="https://github.com/user-attachments/assets/6fcf8c58-021c-4cc3-af9c-6482962eb12c" width="400" alt="capstone certificate"/>
-</details>
 <br>
 
 ### 🚀 Projects
-> ####  [**_For You_**](https://github.com/BestDAOU) <sub><sup> 2024.09 – 2025.05</sup></sub>  
-  AI 기반 개인화 단체문자 서비스
 
-> ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 – 2025.11</sup></sub>  
-  지식그래프를 활용한 지식 관리 앱
- 
+> #### [**_For You_**](https://github.com/BestDAOU) <sub><sup>2024.09 – 2025.05</sup></sub>  
+> AI 기반 개인화 단체문자 서비스
+
+> #### [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup>2025.02 – 2025.11</sup></sub>  
+> 지식그래프를 활용한 지식 관리 앱
+
 <br>
 
 ## 👩‍🏫 Other Achievements & Experiences
 
-- [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교**  
-- [2024. 2학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터**
-- [2025.01.20 ~ 01.24] 한성대학교 동계 프로그래밍 캠프 **튜터**
-- [2025. 1학기] 한성대학교 한성튜터링 **튜터**
 - [2025. 2학기] 한성대학교 전공튜터링 **튜터**
-- <details><summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 <strong>최우수상</strong> </summary>
-  <img src="https://github.com/yes6686/portfolio/blob/main/독서 상장.png?raw=true" width="400" alt="capstone certificate"/>
+- [2025. 1학기] 한성대학교 한성튜터링 **튜터**
+- [2025.01.20 ~ 01.24] 한성대학교 동계 프로그래밍 캠프 **튜터**
+- [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교**
+- [2024. 2학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터**
+- [2023. 2학기] 한성대학교 전공튜터링 **튜터**
 
-<br>
+<details>
+  <summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 <strong>최우수상</strong></summary>
+  <img src="https://github.com/yes6686/portfolio/blob/main/독서 상장.png?raw=true" width="400"/>
+</details>
 
 ---
 
-
-
 <div align="center">
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yes6686&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/yes6686"
-  width="600"
-  height="300"
-/>
-</a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yes6686&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yes6686" width="600" height="300"/>
+  </a>
 </div>
